@@ -1,5 +1,5 @@
 tensorflow==1.0.0
-keras==1.2.2
+keras==3.9.0
 coremltools
 jupyter
 h5py
