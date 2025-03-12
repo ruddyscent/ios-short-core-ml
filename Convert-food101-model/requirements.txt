@@ -1,4 +1,4 @@
-tensorflow==1.0.0
+tensorflow==2.12.1
 keras==3.9.0
 coremltools
 jupyter
